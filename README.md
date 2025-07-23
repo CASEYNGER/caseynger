@@ -3,7 +3,7 @@
 ## ✨ Hi everyone! I'm a Python developer.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CASEYNGER&show_icons=true&theme=dark&hide_border=true)
 
-## Technology stack
+## 🛠️ Technology stack
 ### Languages and frameworks
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=python&labelColor=262925&color=1b1d1f)
 ![Django](https://img.shields.io/badge/django-django?style=for-the-badge&logo=django&logoColor=35b842&labelColor=262925&color=1b1d1f)
@@ -34,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/linux-linux?style=for-the-badge&logo=Linux&logoColor=ffec42&labelColor=262925&color=1b1d1f)
 ![Jupyter](https://img.shields.io/badge/jupyter-jupyter?style=for-the-badge&logo=Jupyter&logoColor=ff8a1c&labelColor=262925&color=1b1d1f)
 
-## My links
+## 🔗 Links
 [![Telegram](https://img.shields.io/badge/telegram-telegram?style=for-the-badge&logo=telegram&labelColor=262925&color=262925)](https://t.me/caseynger)
 [![Instagram](https://img.shields.io/badge/instagram-instagram?style=for-the-badge&logo=instagram&labelColor=262925&color=262925)](https://www.instagram.com/caseynger)
 [![Habr](https://img.shields.io/badge/habr-habr?style=for-the-badge&logo=habr&labelColor=262925&color=262925)](https://habr.com/ru/users/caseynger/)
